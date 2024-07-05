@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI attacking.
 - 🌱 I’m currently doing AI attack research.
 - 💞️ I’m looking to collaborate on AI attacking.
-- 📫 How to reach me. I don't know.
+- 📫 How to reach me. By mail.
 
 <!---
 Francisapzii/Francisapzii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
